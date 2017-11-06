@@ -1,0 +1,1220 @@
+{
+  "settings": {
+    "name": "TecnoMotriz",
+    "currentPage": "TecnoMotriz Inicio.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#fac51c",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      },
+      "additionalSetColors": []
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 47,
+    "versionPublish": "4.3.0",
+    "path": "@PROJECT_PATH@",
+    "favicon": "",
+    "noImageResize": "",
+    "cookiesAlert": "",
+    "google-analytics": ""
+  },
+  "pages": {
+    "TecnoMotriz Contacto.html": {
+      "settings": {
+        "title": "Contacto",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 5
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#fac51c"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#fac51c"
+            },
+            ".link, .dropdown-item": {
+              "color": "#fac51c"
+            },
+            ".link": {
+              "font-size": "1.05rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.137rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#141414"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#262626!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#2e2e2e"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#fac51c",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#fac51c!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-8",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#2e2e2e",
+            "fontSize": "1.05",
+            "fontName": {},
+            "fontColor": "#fac51c",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-proyecto-195x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"TecnoMotriz Inicio.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TECNOFÍSICO</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"TecnoMotriz Inicio.html\" aria-expanded=\"false\">INICIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"TecnoMotriz Proyecto 1.html\" aria-expanded=\"false\">APPS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Tecnomotriz Multimedia.html\" aria-expanded=\"false\">MULTIMEDIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"TecnoMotriz Contacto.html\" aria-expanded=\"false\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\">DESCARGA</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          },
+          "_anchor": "form1-a",
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
+            "labelsColor": "#232323",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#c1c1c1",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "CONTACTA CON<br>NOSOTROS",
+          "subtitle": "Contacta con nosotros si tienes dudas o si necesitas ayuda.",
+          "form": {
+            "action": "infotecnomotriz@gmail.com",
+            "alerts": {
+              "success": "Gracias por contactar con nosotros"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Nombre*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Telefono"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Mensaje*"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVIAR</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-b",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo-proyecto-128x83.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Dirección</strong><br>Carrera 23 # 5a-05<br>\nCiudad, Tuluá",
+          "text2": "<strong>Contacto</strong><br>\nEmail:&nbsp;infotecnomotriz@gmail.com<br>Telefono: +57 3015166480",
+          "text3": ""
+        }
+      ]
+    },
+    "TecnoMotriz Inicio.html": {
+      "settings": {
+        "main": true,
+        "title": "Inicio",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000"
+            },
+            ".mbr-section-lead": {
+              "color": "#000000",
+              "text-align": "center",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-0",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#c1c1c1",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.2"
+          },
+          "title": "TECNOFÍSICO",
+          "text": "Bienvenidos a TecnofÍsico, un espacio donde podrás encontrar diversas formas para que tu rendimiento físico mejore pero sin dejar de lado la tecnología, en la página encontraras aplicaciones que te ayudan a llevar una rutina o una dieta, videos de canales los cuales se dedican a este tipo de actividades.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"TecnoMotriz Proyecto 1.html\" data-toolbar=\"-mbrBtnMove\">APPS</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-14",
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/image1.jpg",
+              "width": 1400
+            },
+            "video": {
+              "src": "https://youtu.be/hGl-LAm-v3o",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": "on",
+              "active": true
+            }
+          },
+          "_params": {
+            "showText": true
+          },
+          "text": ""
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#fac51c"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#fac51c"
+            },
+            ".link, .dropdown-item": {
+              "color": "#fac51c"
+            },
+            ".link": {
+              "font-size": "1.05rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.137rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#141414"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#262626!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#2e2e2e"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#fac51c",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#fac51c!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-1",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#2e2e2e",
+            "fontSize": "1.05",
+            "fontName": {},
+            "fontColor": "#fac51c",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-proyecto-195x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"TecnoMotriz Inicio.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TECNOFÍSICO</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"TecnoMotriz Inicio.html\" aria-expanded=\"false\">INICIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"TecnoMotriz Proyecto 1.html\" aria-expanded=\"false\">APPS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Tecnomotriz Multimedia.html\" aria-expanded=\"false\">MULTIMEDIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"TecnoMotriz Contacto.html\" aria-expanded=\"false\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\">DESCARGA</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-b",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo-proyecto-128x83.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Dirección</strong><br>Carrera 23 # 5a-05<br>\nCiudad, Tuluá",
+          "text2": "<strong>Contacto</strong><br>\nEmail:&nbsp;infotecnomotriz@gmail.com<br>Telefono: +57 3015166480",
+          "text3": ""
+        }
+      ]
+    },
+    "Tecnomotriz Multimedia.html": {
+      "settings": {
+        "title": "Multimedia",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 4
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_params": {
+            "autoplay": false,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#fff",
+            "timeout": 5,
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/arreglo-1152x648.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=9aU0HgqF9UY",
+                "overlay": true,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "Multimedia",
+                "showText": true,
+                "text": "En esta sección encontraras ejercicios tanto cortos como largos los cuales podrás realizar en la comodidad de tu hogar.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-20170929-161758790-2000x1125.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/aDB4p6jldfg",
+                "overlay": false,
+                "contentAlign": "left",
+                "showTitle": false,
+                "title": "",
+                "showText": false,
+                "text": ".",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-20170929-161805688-2000x1125.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/hGl-LAm-v3o",
+                "overlay": false,
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "IMAGE SLIDE",
+                "showText": false,
+                "text": "",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/img-20170929-161809721-2000x1125.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=EEQQOBLi9bU",
+                "overlay": false,
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "",
+                "showText": false,
+                "text": "",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ]
+          },
+          "_anchor": "slider-o",
+          "articleLayout": false,
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery3",
+          "_params": {
+            "showBullets": false,
+            "fullWidth": true,
+            "spacing": 1,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "filterBgColor": true,
+            "bgColor": "#000000",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "alt": "",
+                "tags": "Awesome",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=9aU0HgqF9UY",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-10-0-18-27-9-864984.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/arreglo-1152x648-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/arreglo-1152x648.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "alt": "",
+                "tags": "Responsive",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/aDB4p6jldfg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-10-0-18-27-36-380134.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170929-161758790-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170929-161758790-2000x1125.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "alt": "",
+                "tags": "Creative",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/hGl-LAm-v3o",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-10-0-18-27-50-981219.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170929-161805688-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170929-161805688-2000x1125.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "alt": "",
+                "tags": "Animated",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=EEQQOBLi9bU",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-10-0-18-28-12-462687.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170929-161809721-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170929-161809721-2000x1125.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "alt": "",
+                "tags": "Awesome",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/EvhtTOzWxHM",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-10-0-18-28-55-324849.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170929-161829184-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170929-161829184-2000x1125.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "alt": "",
+                "tags": "Beautiful",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=G540o1RjAUQ",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-10-0-18-29-32-610138.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170929-161906553-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170929-161906553-2000x1125.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "alt": "",
+                "tags": "Responsive",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=zfY5XXa26ug",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-10-0-18-30-33-100182.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170929-162651438-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170929-162651438-2000x1125.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "alt": "",
+                "tags": "Animated",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=irJe_usn5I0",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-10-0-18-31-18-618223.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170929-163204661-hdr-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170929-163204661-hdr-2000x1125.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "alt": "",
+                "tags": "Animated",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=MKkxEifgGCY",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-10-0-18-31-41-417818.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170929-163255746-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170929-163255746-2000x1125.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "alt": "",
+                "tags": "Animated",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=bKG3urW_2M8",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-10-0-18-31-59-338990.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170929-163309068-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170929-163309068-2000x1125.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "alt": "",
+                "tags": "Animated",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=EDy214GHDOg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-10-0-18-32-27-329274.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170929-163809654-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170929-163809654-2000x1125.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "alt": "",
+                "tags": "Animated",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=aZk1Umqlrso",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-10-0-18-32-39-295461.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170929-163811479-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170929-163811479-2000x1125.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "alt": "",
+                "tags": "Animated",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=pBllNY8QOD4",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-10-0-18-33-5-406251.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170929-163813574-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170929-163813574-2000x1125.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "alt": "",
+                "tags": "Animated",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=Lccxvj8RmAc",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-10-0-18-34-19-79315.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170929-164502915-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170929-164502915-2000x1125.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "alt": "",
+                "tags": "Animated",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=k0XOMVY7lx4",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-10-0-18-34-40-26628.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170929-165221841-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170929-165221841-2000x1125.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "alt": "",
+                "tags": "Animated",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=FmGFMMatV0o",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-10-0-18-34-58-21873.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170929-165229544-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170929-165229544-2000x1125.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "_anchor": "gallery3-m",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#fac51c"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#fac51c"
+            },
+            ".link, .dropdown-item": {
+              "color": "#fac51c"
+            },
+            ".link": {
+              "font-size": "1.05rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.137rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#141414"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#262626!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#2e2e2e"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#fac51c",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#fac51c!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-k",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#2e2e2e",
+            "fontSize": "1.05",
+            "fontName": {},
+            "fontColor": "#fac51c",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-proyecto-195x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"TecnoMotriz Inicio.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TECNOFÍSICO</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"TecnoMotriz Inicio.html\" aria-expanded=\"false\">INICIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"TecnoMotriz Proyecto 1.html\" aria-expanded=\"false\">APPS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Tecnomotriz Multimedia.html\" aria-expanded=\"false\">MULTIMEDIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"TecnoMotriz Contacto.html\" aria-expanded=\"false\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\">DESCARGA</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-l",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo-proyecto-128x83.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Dirección</strong><br>Carrera 23 # 5a-05<br>\nCiudad, Tuluá",
+          "text2": "<strong>Contacto</strong><br>\nEmail:&nbsp;infotecnomotriz@gmail.com<br>Telefono: +57 3015166480",
+          "text3": ""
+        }
+      ]
+    },
+    "TecnoMotriz Proyecto 1.html": {
+      "settings": {
+        "title": "Apps",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#fac51c"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#fac51c"
+            },
+            ".link, .dropdown-item": {
+              "color": "#fac51c"
+            },
+            ".link": {
+              "font-size": "1.05rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.137rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#141414"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#262626!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#2e2e2e"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#fac51c",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#fac51c!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-p",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#2e2e2e",
+            "fontSize": "1.05",
+            "fontName": {},
+            "fontColor": "#fac51c",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-proyecto-195x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"TecnoMotriz Inicio.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TECNOFÍSICO</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"TecnoMotriz Inicio.html\" aria-expanded=\"false\">INICIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"TecnoMotriz Proyecto 1.html\" aria-expanded=\"false\">APPS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Tecnomotriz Multimedia.html\" aria-expanded=\"false\">MULTIMEDIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"TecnoMotriz Contacto.html\" aria-expanded=\"false\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\">DESCARGA</a></li>"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true,
+            "columnsColor": "#2e2e2e",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": "4",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#c1c1c1",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/instafit-600x393.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/nike-1-600x300.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/seven-app-600x300.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/pocket-yoga-app-600x337.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "InstaFit Workouts",
+          "subtitle1": "",
+          "caption1": "Esta app tiene rutinas de ejercicio para todo tipo de personas así seas principiante y busques algo de bajo impacto o que seas avanzado y busques algo que te rete un poco más. Tiene nuevas rutinas cada semana con diferentes disciplinas desde kickboxing hasta yoga y baile,",
+          "title2": "Nike Training Club",
+          "subtitle2": "",
+          "caption2": "Desde hace algún tiempo Nike ya tenía un app para correr que te guiaba por medio de entrenamientos de voz, sin embargo ahora la misma marca ofrece entrenamientos para tonificar, endurecer los músculos, hacer estiramientos, etc. Además te da la opción de crear tu propio plan.",
+          "title3": "Seven",
+          "subtitle3": "",
+          "caption3": "¿no tienes tiempo para hacer ejercicio? Solo necesitas 7 minutos para completar el reto de actividad física de cada día que esta app te ofrece. Ya no tienes pretextos, pues una voz te guía por medio de diferentes ejercicios que además puedes ver en la pantalla, con los que trabajarás varios músculos",
+          "title4": "Pocket Yoga",
+          "subtitle4": "",
+          "caption4": "Si eres fanática o fanatico del yoga esta app es excelente para ti. Con ella podrás tener tu propia rutina, pero lo mejor de todo es que te explican cómo debe de ser cada posición para evitar que no te lastimes. Puedes elegir también la duración y la dificultad de cada postura.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://play.google.com/store/apps/details?id=com.instafit.workouts&amp;hl=es\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">DESCARGAR</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://play.google.com/store/apps/details?id=com.nike.ntc&amp;hl=es\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">DESCARGAR</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://play.google.com/store/apps/details?id=se.perigee.android.seven&amp;hl=es\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">DESCARGAR</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://play.google.com/store/apps/details?id=com.rainfrog.yoga&amp;hl=es\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">DESCARGAR<br></a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-18",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true,
+            "columnsColor": "#2e2e2e",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#c1c1c1",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/8-fit-600x263.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/reto-deportivo-30-dias-aplicacion-2-600x379.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/workout-app-banner-sot-600x283.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/imagen-fitness-bodybuilding-0big-600x480.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "8fit",
+          "subtitle1": "",
+          "caption1": "Esta aplicación te permite personalizar tus entrenamientos por tiempo, área del cuerpo que quieras trabajar y dificultad. Además te ofrece opciones de menús para comer antes y después de tu entrenamiento. Es ideal tanto para las personas que quieren bajar de peso como para los que quieren subir y ganar músculo.",
+          "title2": "Reto Deportivo de 30 Días",
+          "subtitle2": "",
+          "caption2": "Una de las mejores aplicaciones de 2016. Con esta aplicación cada cinco semanas vamos a tener un reto que cumplir. Cada día vamos a tener un objetivo que cumplir para hacerlo más llevadero. Tiene objetivos cada 30 días para fortalecer partes del cuerpo en concreto o todo el cuerpo.<br>",
+          "title3": "Personal trainer: Gym workout",
+          "subtitle3": "",
+          "caption3": "Esta aplicación es una de entrenador personal para descubrir todos los músculos que tienes en el cuerpo. No importa tu nivel ya que tiene asistencia desde principiante hasta profesional. Miles de rutinas con variaciones para definir y moldear tu cuerpo.&nbsp;",
+          "title4": "Fitness &amp; Bodybuilding",
+          "subtitle4": "",
+          "caption4": "Esta aplicación cuenta con una larga serie de ejercicios con los que vas a poder trabajar partes determinadas de tu cuerpo. Los ejercicios son sencillos y como mucho necesitarás unas pesas. Todos ellos está detalladamente explicados y puedes elegir cuantos días por semana quieres entrenar para dosificar el esfuerzo.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://play.google.com/store/apps/details?id=com.eightfit.app&amp;hl=es\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">DESCARGAR</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://play.google.com/store/apps/details?id=com.popularapp.thirtydayfitnesschallenge&amp;hl=es\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">DESCARGAR</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://play.google.com/store/apps/details?id=com.fitness22.workout&amp;hl=es\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">DESCARGAR</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://play.google.com/store/apps/details?id=softin.my.fast.fitness&amp;hl=es\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">DESCARGAR</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-19",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-r",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo-proyecto-128x83.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Dirección</strong><br>Carrera 23 # 5a-05<br>\nCiudad, Tuluá",
+          "text2": "<strong>Contacto</strong><br>\nEmail:&nbsp;infotecnomotriz@gmail.com<br>Telefono: +57 3015166480",
+          "text3": ""
+        }
+      ]
+    }
+  }
+}
